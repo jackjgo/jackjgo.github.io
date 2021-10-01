@@ -7,6 +7,11 @@ permalink: /other-projects
 # Terrain
 I'm broadly interested in terrain analysis algorithms and visualization.
 
+| ![windRiver_roughness](https://raw.githubusercontent.com/jackjgo/jackjgo.github.io/gh-pages/assets/img/windRiver_roughness.JPG) |
+|:--:|
+| *Rougness of Wyoming's Wind River Range calculated by sd slope* |
+
+
 ## Vertical exaggeration
 When printing 3D maps showing terrain, it's usually necessary to exaggerate elevation values. Because vertical relief is quite small relative to the scale of the earth, even large mountains appear quite flat without an exaggeration. Terrain is typically exaggerated by simply multiplying all elevation values by some factor, but different landforms require different amoounts of exaggeration to appear "right".
 
